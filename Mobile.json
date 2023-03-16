@@ -1,0 +1,14 @@
+[
+    {
+        "ID":1,
+        "name": "Iphone",
+        "img" : "https://images.samsung.com/is/image/samsung/p6pim/th/2202/gallery/th-galaxy-a53-5g-a536-sm-a536ezogthl-531406023?$1300_1038_PNG$",
+        "Screen" : "10.5 n",
+        "Camera" : "900 px",
+        "Cpu" : "intel",
+        "Memory" : "10005 gb",
+        "battery" : "90000 amp",
+        "price" : "1,220"
+
+    }
+]
